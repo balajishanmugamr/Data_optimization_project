@@ -1,8 +1,3 @@
-Spam-Ham
-
-Classification as Spam or Ham
-
-Implemented following algorithms:
-SVM
-Multinomial Naive Bayes 
-Logistic Regression
+Spam-and-Ham
+A machine learning model that classifies spam/ham messages.
+Implemented algorithms: SVM,Multinomial Naive Bayes,Logistic Regression
